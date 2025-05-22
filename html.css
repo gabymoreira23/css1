@@ -1,0 +1,15 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+}
+
+.titulo {
+    color: rgb(230, 222, 238);
+    background-color: rgb(167, 47, 157);
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
