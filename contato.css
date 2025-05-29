@@ -1,0 +1,39 @@
+.navbar-brand{
+    color: rgb(181, 43, 223);
+    font-size: medium;
+
+}
+.navbar-brand.houver{
+    color: rgb(105, 60, 148);
+}
+#formacao{
+    color: rgb(181, 43, 223);
+}
+#formacao.houver{
+    color:  rgb(181, 43, 223);
+}
+#contato{
+    color:  rgb(181, 43, 223);
+}
+#contato.houver{
+    color:  rgb(181, 43, 223);
+}
+#redes{
+    color:  rgb(181, 43, 223);
+}
+#redes.houver{
+    color:  rgb(181, 43, 223);
+}
+footer{
+    color: rgb(184, 120, 167);
+    font-size: xx-small;
+    margin: 2px;
+}
+.caixa {
+    align-items: center;
+  
+  background-color: rgb(167, 47, 157);
+  border: 1px solid rgb(197, 77, 197);
+  padding: 20px; /* Espaço interno */
+  
+}
